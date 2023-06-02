@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBioApp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="no_account">No Account?</string>
+    <string name="welcome">Welcome!</string>
+    <string name="logout">Logout</string>
+    <string name="bio">My name is Farrel Emerson, I\'m 21 years old!\n \nNice to see you trying out my first kotlin app!</string>
+    <string name="welcome_messages">Welcome, %1$s!</string>
+</resources>

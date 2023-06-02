@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983091757522",
+    "project_id": "mybioapp-telkom",
+    "storage_bucket": "mybioapp-telkom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983091757522:android:451b47141a851b6b96c80b",
+        "android_client_info": {
+          "package_name": "com.example.mybioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983091757522-747bhm1ke0n5jmco1lm52b6d57f6eljs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAt_WR1RY2Pi__0qNJ-1qb_XxI-S5KcNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983091757522-747bhm1ke0n5jmco1lm52b6d57f6eljs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
